@@ -23,6 +23,10 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MethodOverriding", "MethodO
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Abstaction", "Abstaction\Abstaction.csproj", "{43DB98F7-CE04-4168-854F-5F73274B7ED2}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SealedClass", "SealedClass\SealedClass.csproj", "{FACD495E-B085-4512-838D-5C94DC2046C6}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PholymophrismDBConnectionEx", "PholymophrismDBConnectionEx\PholymophrismDBConnectionEx.csproj", "{77C3F016-3AD3-4F7F-8E9C-358B67BEFDEA}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -69,6 +73,14 @@ Global
 		{43DB98F7-CE04-4168-854F-5F73274B7ED2}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{43DB98F7-CE04-4168-854F-5F73274B7ED2}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{43DB98F7-CE04-4168-854F-5F73274B7ED2}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FACD495E-B085-4512-838D-5C94DC2046C6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FACD495E-B085-4512-838D-5C94DC2046C6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FACD495E-B085-4512-838D-5C94DC2046C6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FACD495E-B085-4512-838D-5C94DC2046C6}.Release|Any CPU.Build.0 = Release|Any CPU
+		{77C3F016-3AD3-4F7F-8E9C-358B67BEFDEA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{77C3F016-3AD3-4F7F-8E9C-358B67BEFDEA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{77C3F016-3AD3-4F7F-8E9C-358B67BEFDEA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{77C3F016-3AD3-4F7F-8E9C-358B67BEFDEA}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
