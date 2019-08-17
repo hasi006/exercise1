@@ -27,6 +27,12 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SealedClass", "SealedClass\
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PholymophrismDBConnectionEx", "PholymophrismDBConnectionEx\PholymophrismDBConnectionEx.csproj", "{77C3F016-3AD3-4F7F-8E9C-358B67BEFDEA}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "InterfaceTestability", "InterfaceTestability\InterfaceTestability.csproj", "{A2FA7E8D-038E-4942-B585-5A09282108FC}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "InterfaceTest", "InterfaceTest\InterfaceTest.csproj", "{2B88B16C-50A5-4201-8FFA-51DF08F28CB7}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "InterfaceExtensibility", "InterfaceExtensibility\InterfaceExtensibility.csproj", "{808F96CE-E4A9-4497-B1F2-2FEB7C13CA1B}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -81,6 +87,18 @@ Global
 		{77C3F016-3AD3-4F7F-8E9C-358B67BEFDEA}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{77C3F016-3AD3-4F7F-8E9C-358B67BEFDEA}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{77C3F016-3AD3-4F7F-8E9C-358B67BEFDEA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A2FA7E8D-038E-4942-B585-5A09282108FC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A2FA7E8D-038E-4942-B585-5A09282108FC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A2FA7E8D-038E-4942-B585-5A09282108FC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A2FA7E8D-038E-4942-B585-5A09282108FC}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2B88B16C-50A5-4201-8FFA-51DF08F28CB7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2B88B16C-50A5-4201-8FFA-51DF08F28CB7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2B88B16C-50A5-4201-8FFA-51DF08F28CB7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2B88B16C-50A5-4201-8FFA-51DF08F28CB7}.Release|Any CPU.Build.0 = Release|Any CPU
+		{808F96CE-E4A9-4497-B1F2-2FEB7C13CA1B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{808F96CE-E4A9-4497-B1F2-2FEB7C13CA1B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{808F96CE-E4A9-4497-B1F2-2FEB7C13CA1B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{808F96CE-E4A9-4497-B1F2-2FEB7C13CA1B}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
